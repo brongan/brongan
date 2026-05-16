@@ -9,8 +9,8 @@ My dreams are to replace Zwave-JS with a Rust implementation and run a CT Log.
 [![Brennan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brongan)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on implementing the Signal Protocol in 🦀 and flutter.
-- 💬 Ask me about Certificate Authorities at Google
-- 📫 How to reach me: brennantracy4 at gmail.com
+- 💬 Ask me about Certificate Authorities
+- 📫 How to reach me: me@brongan.com
 - 😄 Pronouns: he/him 🌈
 - ⚡ Fun fact: I am also an aspiring Triathlete
 
